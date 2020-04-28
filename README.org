@@ -1,0 +1,9 @@
+#+TITLE:   abstract interpretation
+#+DATE:    April 28, 2020
+
+experimenting with abstract interpretation with a basic framework
+
+* TODO
+- integer narrowing
+- more language constructs
+- improve runtime
